@@ -1,6 +1,6 @@
-# Android Prework - *Name of App Here*
+# Android Prework - *National Parks *
 
-Submitted by: **Your Name Here**
+Submitted by: Robell Altaseb
 
 **Name of your app** is an android app that shows an image and introductory message, and allows pressing a button to display a Toast. 
 
@@ -18,7 +18,7 @@ The following **required** functionality is completed:
 
 Here's a walkthrough of implemented features:
 
-<img src='NationalPark.gif' />
+<img src='NationalPark2.gif' />
 
 GIF created with ...  
 
